@@ -7,7 +7,7 @@
   <h3>Connect with me 📞:</h3>
   <p>
     <a href="https://twitter.com/cristiaaaan_n27" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/master/icons/twitter.svg" alt="cristiaaaan_n27" height="40" width="50" /></a>
-    <a href="https://instagram.com/cristiaaan.n27" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/master/icons/instagram.svg" alt="cristiaaan.n27" height="40" width="50" /></a>
+    <a href="https://instagram.com/cristiannustes27" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/master/icons/instagram.svg" alt="cristiaaan.n27" height="40" width="50" /></a>
   </p>
 </div>
 

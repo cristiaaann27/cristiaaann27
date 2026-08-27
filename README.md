@@ -37,7 +37,7 @@
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,php&theme=dark" alt="Backend stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,php,go&theme=dark" alt="Backend stack" />
 </p>
 
 **Frontend**
@@ -55,13 +55,13 @@
 **Cloud & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,linux,git,githubactions&theme=dark" alt="Cloud and DevOps" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,linux,git,github&theme=dark" alt="Cloud and DevOps" />
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,figma&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,ansible,bash,&theme=dark" alt="Tools" />
 </p>
 
 ### 🤖 AI-assisted workflows

@@ -2,6 +2,8 @@
 
 # Hi 👋, I'm Cristian Ñustes
 
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+
 ### Full Stack Engineer @ Accenture · Java & Spring Boot · Cloud
 
 <p>
@@ -61,25 +63,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=idea,vscode,postman,figma&theme=dark" alt="Tools" />
 </p>
-
----
-
-### 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cristiaaann27&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiaaann27&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com/?user=cristiaaann27&hide_border=true&theme=tokyonight" alt="Streak stats" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=cristiaaann27&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-
-</div>
 
 ---
 

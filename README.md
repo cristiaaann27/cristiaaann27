@@ -64,6 +64,19 @@
   <img src="https://skillicons.dev/icons?i=idea,vscode,postman,figma&theme=dark" alt="Tools" />
 </p>
 
+### 🤖 AI-assisted workflows
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/MCP-1F2937?style=for-the-badge&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG-1F2937?style=for-the-badge&logoColor=white" alt="RAG" />
+</p>
+
 ---
 
 <div align="center">
